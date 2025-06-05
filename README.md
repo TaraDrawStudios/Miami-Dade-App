@@ -20,3 +20,7 @@ Allows teachers to keep track of their sign-ins and make sure they are being pai
 The original app would require user to verify their identity after signing in. For account safety and privacy, the time sheet data will be recorded after the user has verified it. This app also does not account for when teachers are signing in on off days -- that will be a future update. Time sheet fraud and all other legal actions will have to be accounted for later for future updates. 
 
 Administrators would have to pay extra attention, and if a teacher has not signed in, they would have to contact the administrator to resolve the issue. 
+
+# Time Sheet UI sample idea
+
+![Sample Time Sheet UI](https://github.com/user-attachments/assets/9d09d842-5b3e-4a80-b69f-2c22492d1ac0)
