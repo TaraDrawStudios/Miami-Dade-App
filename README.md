@@ -3,7 +3,9 @@ This is a demo application for the sign in sheet
 
 
 miamiDade.java is the main file
+
 PageOne.java is the app section which simulates the user clicking on "apps"
+
 timeSheet.java is the time sheet layout. I have left this un-decorated to promote creative ideas to make this look better. The current screen that you see is simply the skeleton of it. 
 
 # Description
